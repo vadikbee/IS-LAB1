@@ -1,0 +1,8 @@
+python IS-1LABA.py
+
+
+или
+
+pip install streamlit pandas numpy matplotlib
+
+streamlit run app.py
